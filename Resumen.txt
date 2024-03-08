@@ -1,0 +1,15 @@
+git clone
+git log
+git log --oneline
+
+
+git restore
+	para volver y demas
+git pull y push
+	para descargar y subir cambios
+
+git status
+    revisa que cosas no hemos cambiado
+
+git add
+    agrega los elementos previo al commit
