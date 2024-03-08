@@ -24,4 +24,12 @@ git diff 'nombre archivo'
 git restore --source CODIGO
     volvemos a una version anterior usando el codigo de git log
 
-    
+git branch
+    ver las ramas
+
+git checkout -b NOMBRE-RAMA
+    crea una nueva ramas
+
+git switch RAMA
+    cambiar entre ramas
+
