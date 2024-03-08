@@ -13,3 +13,7 @@ git status
 
 git add
     agrega los elementos previo al commit
+
+git commit - m 
+    hace commit y agrega mensaje
+
